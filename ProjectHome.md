@@ -1,0 +1,3 @@
+OpenAHRMS is a hardware / software effort to create a critical component to robotic navigation.  It implements the data gathering and processing using modern probabilistic data fusion algorithms for determining position, orientation and direction.
+
+The hardware schematics and lay out files will be released under an open source license (initially GPLv3) and later the TPAR OHL.  The firmware and host software will be GPLv3 where ever customary OSS licensing is not in place, otherwise we will use whatever customary licensing dictates.
